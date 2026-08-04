@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Josep Serrano-Serrat"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-   url                     : https://serranoserrat.github.io
-   baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Josep Serrano-Serrat"
+description              : &description "Josep Serrano-Serrat's academic portfolio"
+url                       : https://serranoserrat.github.io
+baseurl                   : ""
 repository               : "SerranoSerrat/serranoserrat.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
