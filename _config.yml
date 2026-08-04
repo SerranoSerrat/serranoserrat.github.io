@@ -22,7 +22,7 @@ repository               : "SerranoSerrat/serranoserrat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Josep Serrano-Serrat"
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   bio              : "Postdoctoral Researcher at the Institute for Public Goods and Policies (IPP), Spanish National Research Council (CSIC)."
   location         : "Madrid"
   email            : "j.serrano.serrat@csic.es"
