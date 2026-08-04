@@ -8,8 +8,7 @@ author_profile: true
 
 ## Research
 
-<ol reversed="reversed" start="1" style="padding-left: 1.2em;">
-
+<ol reversed="reversed" start="5" style="padding-left: 1.2em;">
    
 <li style="margin-bottom: 1em;">
 <strong>Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Treatment Effects</strong><br>
