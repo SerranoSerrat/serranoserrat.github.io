@@ -33,7 +33,10 @@ author:
   linkedin         : "josep-serrano-serrat-848b7a15b"
   twitter          :
   github           : "SerranoSerrat"
-
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/cv.pdf"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
