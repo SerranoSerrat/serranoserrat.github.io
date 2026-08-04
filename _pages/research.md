@@ -23,7 +23,7 @@ author_profile: true
 
 <li style="margin-bottom: 1em;">
 <strong><a href="https://muse.jhu.edu/pub/1/article/997119/pdf" style="color:#2563eb;">South-South Immigration and Redistribution Preferences: Evidence from Colombia</a></strong><br>
-<em>(with Ignacio Jurado)</em> · <em>World Politics</em> (Forthcoming)
+<em>(with Ignacio Jurado)</em> · <em>World Politics</em> (2026), 78(3), 602-641.
 </li>
 
 <li style="margin-bottom: 1em;">
