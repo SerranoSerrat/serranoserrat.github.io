@@ -22,7 +22,6 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-author:
   name             : "Josep Serrano-Serrat"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Researcher at the Institute for Public Goods and Policies (IPP), Spanish National Research Council (CSIC), and Visiting Researcher at the Universitat Autònoma de Barcelona (UAB)."
