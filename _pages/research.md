@@ -16,23 +16,23 @@ Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Trea
 </li>
 
 <li style="margin-bottom: 1em;">
-<a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/occupational-labor-markets-skills-and-immigration-concerns-panel-data-evidence-for-germany/BED6077606C7CE005C766BD5EB08F628" style="color:#2563eb;">Occupational Labor Markets, Skills, and Immigration Concerns: Panel Data Evidence for Germany</a><br>
+<a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/occupational-labor-markets-skills-and-immigration-concerns-panel-data-evidence-for-germany/BED6077606C7CE005C766BD5EB08F628" style="color:#1184fe;">Occupational Labor Markets, Skills, and Immigration Concerns: Panel Data Evidence for Germany</a><br>
 <em>European Journal of Political Research</em> (First View)
 </li>
 
 <li style="margin-bottom: 1em;">
-<a href="https://muse.jhu.edu/pub/1/article/997119/pdf" style="color:#2563eb;">South-South Immigration and Redistribution Preferences: Evidence from Colombia</a><br>
+<a href="https://muse.jhu.edu/pub/1/article/997119/pdf" style="color:#1184fe;">South-South Immigration and Redistribution Preferences: Evidence from Colombia</a><br>
 <em>(with Ignacio Jurado)</em> · <em>World Politics</em> (2026), 78(3), 602-641.
 </li>
 
 <li style="margin-bottom: 1em;">
-<a href="https://www.journals.uchicago.edu/doi/10.1086/736340" style="color:#2563eb;">Occupation-Specific Skills, Labor Market Context, and Preferences for Redistribution</a>
+<a href="https://www.journals.uchicago.edu/doi/10.1086/736340" style="color:#1184fe;">Occupation-Specific Skills, Labor Market Context, and Preferences for Redistribution</a>
 [<a href="https://www.dropbox.com/scl/fi/ckamwczecow3t9lhlbalj/JOP_redn.pdf?rlkey=jj1pxrb2vvtg4g34v9sxqlo8w&st=mjq466r7&dl=0">PDF</a>]<br>
 <em>the Journal of Politics</em> (2026), 88(3), 1145–1161.
 </li>
 
 <li style="margin-bottom: 1em;">
-<a href="https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaf042/8276846?redirectedFrom=fulltext" style="color:#2563eb;">Shouldering Childhood: Early Behavioral Traits and Discrimination Concerns</a><br>
+<a href="https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcaf042/8276846?redirectedFrom=fulltext" style="color:#1184fe;">Shouldering Childhood: Early Behavioral Traits and Discrimination Concerns</a><br>
 <em>(with Maria Rubio-Cabañez)</em> · <em>European Sociological Review</em> (2026), 42(1), 131–145.
 </li>
 
