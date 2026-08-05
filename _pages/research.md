@@ -12,7 +12,7 @@ author_profile: true
   display: inline-block;
   margin-top: 4px;
   font-size: 0.85em;
-  color: #A3AABE;
+  color: #808080;
   cursor: pointer;
   text-decoration: underline;
 }
