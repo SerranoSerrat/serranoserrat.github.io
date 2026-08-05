@@ -36,7 +36,8 @@ Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Trea
 
 ## Working Papers
 
-- **Immigrant Reactions to Outgroup Exposure** *(with Ignacio Jurado)* [[Working Paper](https://osf.io/preprints/socarxiv/mwqhr_v1)]
+
+- **Immigrant Reactions to Outgroup Exposure** *(with Ignacio Jurado)* [<a href="https://osf.io/preprints/socarxiv/mwqhr_v1" style="color:#1184fe; text-decoration:none;">Working Paper</a>]
   
   Revise and Resubmit, ***the Journal of Politics***
 
