@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Research
+## Publications
 <style>
 .abstract-toggle {
   display: inline-block;
