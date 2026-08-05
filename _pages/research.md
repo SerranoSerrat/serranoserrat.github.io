@@ -23,7 +23,7 @@ Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Trea
 </li>
 <li style="margin-bottom: 1em;">
 <a href="https://www.journals.uchicago.edu/doi/10.1086/736340" style="color:#1184fe; text-decoration:none;">Occupation-Specific Skills, Labor Market Context, and Preferences for Redistribution</a>
-[<a href="https://www.dropbox.com/scl/fi/ckamwczecow3t9lhlbalj/JOP_redn.pdf?rlkey=jj1pxrb2vvtg4g34v9sxqlo8w&st=mjq466r7&dl=0" style="color:#1184fe; text-decoration:none;">PDF</a>]<br>
+<br>
 <strong><em>the Journal of Politics</em></strong> (2026), 88(3), 1145–1161.
 </li>
 <li style="margin-bottom: 1em;">
