@@ -63,7 +63,7 @@ Economic crises, technological change, and labor market transformations have lon
 
 <li style="margin-bottom: 1em;">
 <a href="https://muse.jhu.edu/pub/1/article/997119/pdf" style="color:#1184fe; text-decoration:none;">South-South Immigration and Redistribution Preferences: Evidence from Colombia</a><br>
-<em>(with Ignacio Jurado)</em> · <strong><em>World Politics</em></strong> (2026), 78(3), 602-641.<br> [<a href="https://www.dropbox.com/scl/fi/posv8playau4v2jebr5d1/WP_colombia_redn.pdf?rlkey=e5ifqkfdezo0mcl0rduv5uhjc&st=yvvpykbw&e=1&dl=0" style="color:#1184fe; text-decoration:none;">PDF</a>]
+<em>(with Ignacio Jurado)</em> · <strong><em>World Politics</em></strong> (2026), 78(3), 602-641.<br> [<a href="https://www.dropbox.com/scl/fi/posv8playau4v2jebr5d1/WP_colombia_redn.pdf?rlkey=e5ifqkfdezo0mcl0rduv5uhjc&st=yvvpykbw&e=1&dl=0" style="color:#808080; text-decoration:none;">PDF</a>]
 <span class="abstract-toggle" onclick="toggleAbstract('abs3')">[Abstract]</span>
 <div class="abstract-text" id="abs3">
 Research on the effects of immigration on redistribution preferences mostly focus on Western countries and neglect the South-South contexts. However, we argue that immigration shocks may have different effects in South-South regions. On the one hand, the effect should be more muted due to the minimal cultural differences and the limited development of the welfare state. On the other hand, the impact might be even larger due to high inequality and scarce resources. To investigate this, we follow a two-fold strategy. First, we exploit the 2015 Venezuelan immigration shock in Colombia using a difference-in-differences strategy complemented with an instrumental variable, finding null-to-positive effects. Secondly, a survey experiment reveals that priming citizens on immigration has positive effects on social spending preferences. We attribute this to deservingness considerations. These results challenge some prevailing theories and suggest that increased immigration does not necessarily reduce redistribution preferences in South-South contexts.
@@ -73,7 +73,7 @@ Research on the effects of immigration on redistribution preferences mostly focu
 <li style="margin-bottom: 1em;">
 <a href="https://www.journals.uchicago.edu/doi/10.1086/736340" style="color:#1184fe; text-decoration:none;">Occupation-Specific Skills, Labor Market Context, and Preferences for Redistribution</a>
 <br>
-<strong><em>the Journal of Politics</em></strong> (2026), 88(3), 1145–1161.<br> [<a href="https://www.dropbox.com/scl/fi/ckamwczecow3t9lhlbalj/JOP_redn.pdf?rlkey=jj1pxrb2vvtg4g34v9sxqlo8w&st=mjq466r7&dl=0" style="color:#1184fe; text-decoration:none;">PDF</a>]
+<strong><em>the Journal of Politics</em></strong> (2026), 88(3), 1145–1161.<br> [<a href="https://www.dropbox.com/scl/fi/ckamwczecow3t9lhlbalj/JOP_redn.pdf?rlkey=jj1pxrb2vvtg4g34v9sxqlo8w&st=mjq466r7&dl=0" style="color:#808080; text-decoration:none;">PDF</a>]
 <span class="abstract-toggle" onclick="toggleAbstract('abs2')">[Abstract]</span>
 <div class="abstract-text" id="abs2">
 Understanding who supports income redistribution and when is at the core of political economy literature. Nevertheless, even though social stratification literature understands skill specificity as a key element of social class, there are contradictory views on the role it plays in shaping political preferences. I elaborate a framework that provides an understanding of these contradictions. I argue that the effects of occupation-specific skills on redistribution preferences are moderated by the occupational context, being more negative the tighter the occupational labor market is. I propose two mechanisms related to labor market prospects to explain this relationship: occupational expected wages and risk exposure. Using data from the European Social Survey, the International Social Survey Programme, and flexible interactive effects models, I show the relevance of this new approach. This analysis contributes to a more nuanced understanding of the heterogeneity of middle-class political attitudes.
@@ -100,11 +100,11 @@ This study examines how childhood emotions, traits, and behaviours influence con
   
   Revise and Resubmit, ***the Journal of Politics***
 
-- **Words over Numbers: Childhood Cognitive Skills and Politics in Adulthood** [[Working Paper](https://osf.io/preprints/socarxiv/65sqx_v1)]
+- **Words over Numbers: Childhood Cognitive Skills and Politics in Adulthood** [<a href="https://osf.io/preprints/socarxiv/65sqx_v1" style="color:#1184fe; text-decoration:none;">Working Paper</a>]
   
   Under Review
 
-- **Bordering on Discontent: The Political Consequences of Border Liberalization** *(with Jose Maycas-Sardi)* [[Working Paper](https://osf.io/preprints/socarxiv/t6fhm_v2)]
+- **Bordering on Discontent: The Political Consequences of Border Liberalization** *(with Jose Maycas-Sardi)* [<a href="https://osf.io/preprints/socarxiv/t6fhm_v2" style="color:#1184fe; text-decoration:none;">Working Paper</a>]
   
   Under Review
 
