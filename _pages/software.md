@@ -7,9 +7,9 @@ author_profile: true
 
 ## dcameaipe (R package)
 
-An R package to estimate the **Average Interactive Partial Effect (AIPE)** and the **Difference in Conditional Average Marginal Effects (D-CAME)** for interactive treatment effects, using flexible (polynomial / B-spline / GAM) functional forms for the treatment-by-moderator interaction — rather than assuming the interaction is linear.
+An R package to estimate the **Average Interactive Partial Effect (AIPE)** and the **Difference in Conditional Average Marginal Effects (D-CAME)**, using flexible (polynomial / B-spline / GAM) functional forms for the treatment, rather than assuming the interaction is linear.
 
-Companion package to Serrano-Serrat, *"The Pitfalls of Assuming Linear Treatment Effects in Interaction Tests,"* forthcoming in *Sociological Science* (2026).
+Companion package to Serrano-Serrat, *"Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Treatment Effects,"* *Sociological Science* (2026), 13, 945-970.
 
 **Installation:**
 ```r
