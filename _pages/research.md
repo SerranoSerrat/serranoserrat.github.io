@@ -43,14 +43,13 @@ function toggleAbstract(id) {
 
 <li style="margin-bottom: 1em;">
 <a href="https://sociologicalscience.com/articles-v13-36-945" style="color:#1184fe; text-decoration:none;">Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Treatment Effects</a><br>
-<strong><em>Sociological Science</em></strong> (2026), 13,  945-970.<br>
-<span class="abstract-toggle" onclick="toggleAbstract('abs5')">[Abstract]</span>
-<div class="abstract-text" id="abs5">
-While quantitative social sciences often rely on estimating models in which treatment effects vary across groups, researchers rarely specify which causal quantity they aim to estimate or justify their empirical modeling choices. This paper makes two contributions. First, it clarifies the distinct quantities of interest when studying interactions: comparisons at different treatment intensities (the difference in Conditional Average Marginal Effects) and comparisons at similar intensities (what I term the Average Interactive Partial Effect). When treatment effects are non-linear and treatment distributions differ across groups, these quantities diverge. Second, the paper assesses estimation strategies to estimate these quantities. It demonstrates that linear interaction models produce biased estimates of either quantity when treatment effects are non-linear and explores two alternatives that explicitly accommodate such non-linearities. This paper is accompanied by an "R" package that implements these approaches. Through simulations, stylized examples, and an empirical application, the paper shows that explicitly defining the quantity of interest and selecting appropriate models is essential for valid interaction analysis.
-
-
+<strong><em>Sociological Science</em></strong> (2026), 13, 945&ndash;970.<br>
+<span class="abstract-toggle" onclick="toggleAbstract('abs-quantities-2026')">[Abstract]</span>
+<div class="abstract-text" id="abs-quantities-2026" style="display:none; margin-top: 0.5em;">
+While quantitative social sciences often rely on estimating models in which treatment effects vary across groups, researchers rarely specify which causal quantity they aim to estimate or justify their empirical modeling choices. This paper makes two contributions. First, it clarifies the distinct quantities of interest when studying interactions: comparisons at different treatment intensities (the difference in Conditional Average Marginal Effects) and comparisons at similar intensities (what I term the Average Interactive Partial Effect). When treatment effects are non-linear and treatment distributions differ across groups, these quantities diverge. Second, the paper assesses estimation strategies to estimate these quantities. It demonstrates that linear interaction models produce biased estimates of either quantity when treatment effects are non-linear and explores two alternatives that explicitly accommodate such non-linearities. This paper is accompanied by an &quot;R&quot; package that implements these approaches. Through simulations, stylized examples, and an empirical application, the paper shows that explicitly defining the quantity of interest and selecting appropriate models is essential for valid interaction analysis.
 </div>
 </li>
+
 
 <li style="margin-bottom: 1em;">
 <a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/occupational-labor-markets-skills-and-immigration-concerns-panel-data-evidence-for-germany/BED6077606C7CE005C766BD5EB08F628" style="color:#1184fe; text-decoration:none;">Occupational Labor Markets, Skills, and Immigration Concerns: Panel Data Evidence for Germany</a><br>
