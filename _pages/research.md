@@ -101,7 +101,7 @@ This study examines how childhood emotions, traits, and behaviours influence con
 
 - **Labor Market Demand and Attitudes toward Immigration** *(with Valentina Consiglio and Sergi Pardos-Prado)* [<a href="https://www.urpp-equality.uzh.ch/dam/jcr:23975b01-5499-4d73-b995-1245b91950b9/91_Consiglio_Prados-Pardo_Serrano-Serrat_Labor-market-demand-and-attitudes-toward-immigration%20Kopie.pdf;">Working Paper</a>]
   
-  Revise and Resubmit, ***Americal Political Science Review***
+  Revise and Resubmit, ***American Political Science Review***
 
 - **Words over Numbers: Childhood Cognitive Skills and Politics in Adulthood** [<a href="https://osf.io/preprints/socarxiv/65sqx_v1" style="color:#1184fe; text-decoration:none;">Working Paper</a>]
   
